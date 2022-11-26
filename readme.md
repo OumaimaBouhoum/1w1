@@ -62,7 +62,7 @@ Permet de préparer la version du projet avant le `commit`
 
 1. Pour voir l'état de votre dépôt
    > « `git status` »
-2. Si les fichiers aparaisent en rouge: il faut les indexer
+2. Si les fichiers apparaissent en rouge: il faut les indexer
    > « `git add --all` »
 3. Entrez de nouveau
    > « `git status` »
